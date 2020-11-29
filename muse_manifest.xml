@@ -1,0 +1,510 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.amisiomaybakwan.com" resolutions="1x" timestamp="1533912656900">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="469054154" ref="index"/>
+    <file name="nomq_index.css" crc="4258074340" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3767608957" ref="index"/>
+    <file name="bannerpiece-2.jpg" crc="43018682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bannerpiece.jpg" crc="497730693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3.jpg" crc="278638872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-4-crop-u3397.jpg" crc="313591622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2367.png" crc="512953603" ref="index"/>
+    <file name="u2367-r.png" crc="3819077476" ref="index"/>
+    <file name="u2367-a.png" crc="3987852688" ref="index"/>
+    <file name="u2635.png" crc="4018920498" ref="index"/>
+    <file name="u2635-r.png" crc="56709782" ref="index"/>
+    <file name="u2635-a.png" crc="510433461" ref="index"/>
+    <file name="u2731.png" crc="4291372627" ref="index"/>
+    <file name="u2731-r.png" crc="208281126" ref="index"/>
+    <file name="u2731-a.png" crc="9210300" ref="index"/>
+    <file name="u2829.png" crc="153668482" ref="index"/>
+    <file name="u2829-r.png" crc="3889404959" ref="index"/>
+    <file name="u2829-a.png" crc="159184781" ref="index"/>
+    <file name="cover foto facebook - logo-u1297.png" crc="3852929807" ref="index"/>
+    <file name="circle with@300x-crop-u3478.png" crc="90144212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="half circle grey.png" crc="4259032140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle.png" crc="3854517451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle327x327.png" crc="3854517451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle-crop-u2139.png" crc="4032245979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4188-19.png" crc="4287695777" ref="index"/>
+    <file name="u4020.png" crc="486772060" ref="index"/>
+    <file name="u4020-r.png" crc="3817367837" ref="index"/>
+    <file name="u4028.png" crc="299437304" ref="index"/>
+    <file name="u4028-r.png" crc="500092199" ref="index"/>
+    <file name="u4046.png" crc="3860038403" ref="index"/>
+    <file name="u4046-r.png" crc="287978785" ref="index"/>
+    <file name="u4064.png" crc="174464335" ref="index"/>
+    <file name="u4064-r.png" crc="4180822808" ref="index"/>
+    <file name="u4971-4.png" crc="311058091" ref="index"/>
+    <file name="u3741-12.png" crc="4146618763" ref="index"/>
+    <file name="pesan sekarang juga.png" crc="4094979424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spesialis-u2925.png" crc="4187577197" ref="index"/>
+    <file name="icons8-instagram-64 w-u5167.png" crc="157338291" ref="index"/>
+    <file name="icons8-facebook-48 w-u5195.png" crc="230783445" ref="index"/>
+    <file name="twitter-u5247.png" crc="511104939" ref="index"/>
+    <file name="img_1377.jpg" crc="522980542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-5web-crop-u3958.jpg" crc="388763636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-crop-u3930.png" crc="494469408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u3966.jpg" crc="21366692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-2-crop-u3984.jpg" crc="389454523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u4002.jpg" crc="4127030855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3788-16.png" crc="4070092570" ref="index"/>
+    <file name="ami siomay bakwan title.png" crc="431974689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4196-6.png" crc="42231798" ref="index"/>
+    <file name="bannerpiece-2-crop-u3235.jpg" crc="4293192878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u2968.jpg" crc="130528393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u3316.jpg" crc="130793821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-4-crop-u33972.jpg" crc="431879117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle with@300x-crop-u34782.png" crc="320355362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle245x245.png" crc="300170837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle346x346.png" crc="3854517451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle-crop-u21392.png" crc="69705225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4188-192.png" crc="527943062" ref="index"/>
+    <file name="u40202.png" crc="241264040" ref="index"/>
+    <file name="u4020-r2.png" crc="4001303886" ref="index"/>
+    <file name="u40282.png" crc="3782138382" ref="index"/>
+    <file name="u4028-r2.png" crc="4167976377" ref="index"/>
+    <file name="u40462.png" crc="436606092" ref="index"/>
+    <file name="u4046-r2.png" crc="468320628" ref="index"/>
+    <file name="u40642.png" crc="513595020" ref="index"/>
+    <file name="u4064-r2.png" crc="4061894617" ref="index"/>
+    <file name="u4971-42.png" crc="3788235919" ref="index"/>
+    <file name="cover foto facebook - logo-u12972.png" crc="4288511652" ref="index"/>
+    <file name="u3741-122.png" crc="3793396362" ref="index"/>
+    <file name="spesialis-u29252.png" crc="225120809" ref="index"/>
+    <file name="icons8-instagram-64 w-u51672.png" crc="157338291" ref="index"/>
+    <file name="icons8-facebook-48 w-u51952.png" crc="230783445" ref="index"/>
+    <file name="twitter-u52472.png" crc="511104939" ref="index"/>
+    <file name="u23672.png" crc="3895736487" ref="index"/>
+    <file name="u2367-r2.png" crc="447063006" ref="index"/>
+    <file name="u2367-a2.png" crc="4161832827" ref="index"/>
+    <file name="u26352.png" crc="4068036779" ref="index"/>
+    <file name="u2635-r2.png" crc="181441573" ref="index"/>
+    <file name="u2635-a2.png" crc="457219938" ref="index"/>
+    <file name="u27312.png" crc="456493037" ref="index"/>
+    <file name="u2731-r2.png" crc="4156734328" ref="index"/>
+    <file name="u2731-a2.png" crc="177948785" ref="index"/>
+    <file name="u28292.png" crc="23731023" ref="index"/>
+    <file name="u2829-r2.png" crc="396081266" ref="index"/>
+    <file name="u2829-a2.png" crc="258830055" ref="index"/>
+    <file name="bannerpiece-5web-crop-u39582.jpg" crc="4189046892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-crop-u39302.png" crc="494469408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u39662.jpg" crc="486798333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-2-crop-u39842.jpg" crc="47435834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u40022.jpg" crc="101556150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3788-162.png" crc="484527250" ref="index"/>
+    <file name="u4196-62.png" crc="42231798" ref="index"/>
+    <file name="bannerpiece-2-crop-u32352.jpg" crc="3835567093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u29682.jpg" crc="3830652368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u33162.jpg" crc="140398531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-4-crop-u33973.jpg" crc="4037492774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23673.png" crc="374740356" ref="index"/>
+    <file name="u2367-r3.png" crc="3835984645" ref="index"/>
+    <file name="u2367-a3.png" crc="350683924" ref="index"/>
+    <file name="u26353.png" crc="4052599004" ref="index"/>
+    <file name="u2635-r3.png" crc="4035395693" ref="index"/>
+    <file name="u2635-a3.png" crc="528568534" ref="index"/>
+    <file name="u27313.png" crc="4003796055" ref="index"/>
+    <file name="u2731-r3.png" crc="230004660" ref="index"/>
+    <file name="u2731-a3.png" crc="4020970741" ref="index"/>
+    <file name="u28293.png" crc="232603924" ref="index"/>
+    <file name="u2829-r3.png" crc="4192907259" ref="index"/>
+    <file name="u2829-a3.png" crc="531461017" ref="index"/>
+    <file name="cover foto facebook - logo-u12973.png" crc="4186105526" ref="index"/>
+    <file name="circle with@300x-crop-u34783.png" crc="84919637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="half circle grey228x228.png" crc="3944954814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle204x204.png" crc="368748254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle288x288.png" crc="4056281360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle-crop-u21393.png" crc="456856626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle335x335.png" crc="3854517451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4188-193.png" crc="3919804093" ref="index"/>
+    <file name="bannerpiece-5web-crop-u39583.jpg" crc="192802347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-crop-u39303.png" crc="520442270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u39663.jpg" crc="4010340476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-2-crop-u39843.jpg" crc="132362283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u40023.jpg" crc="4266593339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u40203.png" crc="3834815035" ref="index"/>
+    <file name="u4020-r3.png" crc="4193138896" ref="index"/>
+    <file name="u40283.png" crc="3770930182" ref="index"/>
+    <file name="u4028-r3.png" crc="297490389" ref="index"/>
+    <file name="u40463.png" crc="3803208123" ref="index"/>
+    <file name="u4046-r3.png" crc="198778365" ref="index"/>
+    <file name="u40643.png" crc="3794561467" ref="index"/>
+    <file name="u4064-r3.png" crc="164112767" ref="index"/>
+    <file name="u3788-163.png" crc="4206710507" ref="index"/>
+    <file name="u4971-43.png" crc="4178631445" ref="index"/>
+    <file name="u3741-123.png" crc="3836644759" ref="index"/>
+    <file name="spesialis-u29253.png" crc="4037145886" ref="index"/>
+    <file name="icons8-instagram-64 w-u51673.png" crc="3939201180" ref="index"/>
+    <file name="icons8-facebook-48 w-u51953.png" crc="3917082748" ref="index"/>
+    <file name="twitter-u52473.png" crc="3766889307" ref="index"/>
+    <file name="img_1377-crop-u3612.jpg" crc="4255075484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4196-63.png" crc="4041471786" ref="index"/>
+    <file name="bannerpiece-2-crop-u32353.jpg" crc="4016608640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u29683.jpg" crc="3859641078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u33163.jpg" crc="313869480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-4-crop-u33974.jpg" crc="62308681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23674.png" crc="4272272894" ref="index"/>
+    <file name="u2367-r4.png" crc="522187453" ref="index"/>
+    <file name="u2367-a4.png" crc="282269780" ref="index"/>
+    <file name="u26354.png" crc="440193887" ref="index"/>
+    <file name="u2635-r4.png" crc="218473331" ref="index"/>
+    <file name="u2635-a4.png" crc="273206382" ref="index"/>
+    <file name="u27314.png" crc="4175118980" ref="index"/>
+    <file name="u2731-r4.png" crc="4255030216" ref="index"/>
+    <file name="u2731-a4.png" crc="441002280" ref="index"/>
+    <file name="u28294.png" crc="64942623" ref="index"/>
+    <file name="u2829-r4.png" crc="4164259966" ref="index"/>
+    <file name="u2829-a4.png" crc="43633852" ref="index"/>
+    <file name="cover foto facebook - logo-u12974.png" crc="429807795" ref="index"/>
+    <file name="circle with@300x-crop-u34784.png" crc="4174929579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="half circle grey132x132.png" crc="3964345760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle136x136.png" crc="213665661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle192x192.png" crc="4171064816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle-crop-u21394.png" crc="3891317173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle223x223.png" crc="265311571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle296x296.png" crc="183624638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4188-194.png" crc="3922996154" ref="index"/>
+    <file name="bannerpiece-5web-crop-u39584.jpg" crc="192802347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-crop-u39304.png" crc="520442270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u39664.jpg" crc="4010340476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-2-crop-u39844.jpg" crc="132362283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u40024.jpg" crc="4266593339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u40204.png" crc="4294585288" ref="index"/>
+    <file name="u4020-r4.png" crc="314772530" ref="index"/>
+    <file name="u40284.png" crc="324541236" ref="index"/>
+    <file name="u4028-r4.png" crc="3780409872" ref="index"/>
+    <file name="u40464.png" crc="4159178851" ref="index"/>
+    <file name="u4046-r4.png" crc="3950119634" ref="index"/>
+    <file name="u40644.png" crc="4228319723" ref="index"/>
+    <file name="u4064-r4.png" crc="4246539805" ref="index"/>
+    <file name="u3788-164.png" crc="4289523186" ref="index"/>
+    <file name="u4971-44.png" crc="277411880" ref="index"/>
+    <file name="u3741-124.png" crc="144873882" ref="index"/>
+    <file name="spesialis-u29254.png" crc="4127795420" ref="index"/>
+    <file name="icons8-instagram-64 w-u51674.png" crc="366971550" ref="index"/>
+    <file name="icons8-facebook-48 w-u51954.png" crc="41282661" ref="index"/>
+    <file name="twitter-u52474.png" crc="343258916" ref="index"/>
+    <file name="img_1377-crop-u36122.jpg" crc="3960730336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4196-64.png" crc="26759613" ref="index"/>
+    <file name="bannerpiece-2-crop-u32354.jpg" crc="321550331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u29684.jpg" crc="318263787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u33164.jpg" crc="3967022057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-4-crop-u33975.jpg" crc="161155515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu2-crop-u5007.png" crc="3990790247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-5web-crop-u39585.jpg" crc="192802347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u39665.jpg" crc="4010340476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-2-crop-u39845.jpg" crc="132362283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u40025.jpg" crc="4266593339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3741-125.png" crc="311049633" ref="index"/>
+    <file name="back phone 2-crop-u5035.png" crc="4248487175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3788-165.png" crc="3874978728" ref="index"/>
+    <file name="u4971-45.png" crc="4027344172" ref="index"/>
+    <file name="back phone 1.png" crc="3784501989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back phone 3.png" crc="3926005238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back phone 4-crop-u5091.png" crc="3963760325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4188-195.png" crc="3849802" ref="index"/>
+    <file name="u5119-16.png" crc="3767085826" ref="index"/>
+    <file name="u40205.png" crc="228031499" ref="index"/>
+    <file name="u4020-r5.png" crc="4208346186" ref="index"/>
+    <file name="u40285.png" crc="4099463116" ref="index"/>
+    <file name="u4028-r5.png" crc="4104030155" ref="index"/>
+    <file name="u40465.png" crc="124321300" ref="index"/>
+    <file name="u4046-r5.png" crc="3857468057" ref="index"/>
+    <file name="u40645.png" crc="4145115912" ref="index"/>
+    <file name="u4064-r5.png" crc="4188663041" ref="index"/>
+    <file name="cover foto facebook - logo-u12975.png" crc="429807795" ref="index"/>
+    <file name="spesialis-u29255.png" crc="4143013441" ref="index"/>
+    <file name="icons8-instagram-64 w-u51675.png" crc="157338291" ref="index"/>
+    <file name="icons8-facebook-48 w-u51955.png" crc="230783445" ref="index"/>
+    <file name="twitter-u52475.png" crc="511104939" ref="index"/>
+    <file name="if_whatsapp_986961-u5299.png" crc="3940381958" ref="index"/>
+    <file name="img_1377-crop-u36123.jpg" crc="3937497768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u1364.jpg" crc="3773228110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1407.png" crc="4288381176" ref="index"/>
+    <file name="u1407-a.png" crc="38232064" ref="index"/>
+    <file name="u1636.png" crc="327076210" ref="index"/>
+    <file name="u1636-a.png" crc="4249085179" ref="index"/>
+    <file name="u1745.png" crc="338734518" ref="index"/>
+    <file name="u1745-a.png" crc="4042581940" ref="index"/>
+    <file name="u1854.png" crc="4036337275" ref="index"/>
+    <file name="u1854-a.png" crc="4272225683" ref="index"/>
+    <file name="img_1377-crop-u36124.jpg" crc="314415212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u13642.jpg" crc="3773228110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14072.png" crc="4288381176" ref="index"/>
+    <file name="u1407-a2.png" crc="38232064" ref="index"/>
+    <file name="u16362.png" crc="327076210" ref="index"/>
+    <file name="u1636-a2.png" crc="4249085179" ref="index"/>
+    <file name="u17452.png" crc="338734518" ref="index"/>
+    <file name="u1745-a2.png" crc="4042581940" ref="index"/>
+    <file name="u18542.png" crc="4036337275" ref="index"/>
+    <file name="u1854-a2.png" crc="4272225683" ref="index"/>
+    <file name="bannerpiece-2-crop-u32355.jpg" crc="4146640697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u29685.jpg" crc="3789971888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u33165.jpg" crc="4112968876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-4-crop-u33976.jpg" crc="208734347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu2-crop-u50072.png" crc="3990790247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-5web-crop-u39586.jpg" crc="192802347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-3-crop-u39666.jpg" crc="4010340476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-2-crop-u39846.jpg" crc="132362283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerpiece-crop-u40026.jpg" crc="4266593339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3741-126.png" crc="202230123" ref="index"/>
+    <file name="back phone 2-crop-u50352.png" crc="23517131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3788-166.png" crc="3874978728" ref="index"/>
+    <file name="u4971-46.png" crc="4027344172" ref="index"/>
+    <file name="back phone 4-crop-u50912.png" crc="527125847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4188-196.png" crc="176969149" ref="index"/>
+    <file name="u5119-162.png" crc="3767085826" ref="index"/>
+    <file name="u40206.png" crc="228031499" ref="index"/>
+    <file name="u4020-r6.png" crc="4208346186" ref="index"/>
+    <file name="u40286.png" crc="4099463116" ref="index"/>
+    <file name="u4028-r6.png" crc="4104030155" ref="index"/>
+    <file name="u40466.png" crc="124321300" ref="index"/>
+    <file name="u4046-r6.png" crc="3857468057" ref="index"/>
+    <file name="u40646.png" crc="4145115912" ref="index"/>
+    <file name="u4064-r6.png" crc="4188663041" ref="index"/>
+    <file name="cover foto facebook - logo-u12976.png" crc="429807795" ref="index"/>
+    <file name="spesialis-u29256.png" crc="3786196368" ref="index"/>
+    <file name="icons8-instagram-64 w-u51676.png" crc="157338291" ref="index"/>
+    <file name="icons8-facebook-48 w-u51956.png" crc="230783445" ref="index"/>
+    <file name="twitter-u52476.png" crc="511104939" ref="index"/>
+    <file name="if_whatsapp_986961-u52992.png" crc="3940381958" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4033095921" seo="true" mt="1533912656222" redirect="true"/>
+</manifest>
